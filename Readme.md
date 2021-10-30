@@ -8,7 +8,7 @@
 3) Input the snr value for which testing needs to be done.
 
 ### Results
-** Final result would be generated and stored in .txt 
+** Final result would be generated and stored in .txt format file
      - Naming format: mlResult(snr_val).txt
      - Example filename: mlResult18.txt
     
