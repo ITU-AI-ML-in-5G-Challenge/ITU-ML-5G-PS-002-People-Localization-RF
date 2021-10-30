@@ -14,7 +14,7 @@ Final result would be generated and stored in .txt format file
     
     
 ### Codeflow
-**This section is not required for results generation and code file execution.
+**This section is not required for results generation and code file execution.**
 
 1) Testing dataset would be loaded from the parent folder, given as input by the user (in Final.py)
 2) PreProcessing.py would be called from Final.py and dataset pre-processing would be done to convert it 
