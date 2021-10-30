@@ -3,7 +3,7 @@
 
 ### Instructions
 1) Start with "Final.py" file execution
-2) Input Parent folder path for testing data
+2) Input Parent folder path for testing data.
     ** Parent folder - Folder containing the testing data folders and the files(Final.py, NN_model.py, PreProcessing.py, Counting.py and tx.mat) 
 3) Input the snr value for which testing needs to be done.
 
