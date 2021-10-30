@@ -9,8 +9,8 @@
 
 ### Results
 ** Final result would be generated and stored in .txt format file
-     - Naming format: mlResult(snr_val).txt
-     - Example filename: mlResult18.txt
+     *Naming format: mlResult(snr_val).txt
+     *Example filename: mlResult18.txt
     
     
 ### Codeflow
