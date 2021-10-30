@@ -1,19 +1,19 @@
-Assumption:
+#Assumption#
 1) Testing data folder name is of format "snr18", "snr0" or "snr-18"
 
-Instructions:
+#Instructions#
 1) Start with "Final.py" file execution
 2) Input Parent folder path for testing data
     **Parent folder - Folder containing the testing data folders and the files(Final.py, NN_model.py, PreProcessing.py, Counting.py and tx.mat) 
 3) Input the snr value for which testing needs to be done.
 
-Results:
+#Results#
 ** Final result would be generated and stored in .txt 
      - Naming format: mlResult(snr_val).txt
      - Example filename: mlResult18.txt
     
     
-Codeflow: 
+#Codeflow#
 **This section is not required for results generation and code file execution.
 
 1) Testing dataset would be loaded from the parent folder, given as input by the user (in Final.py)
