@@ -1,4 +1,4 @@
-#Assumption:#
+Assumption:
 1) Testing data folder name is of format "snr18", "snr0" or "snr-18"
 
 Instructions:
