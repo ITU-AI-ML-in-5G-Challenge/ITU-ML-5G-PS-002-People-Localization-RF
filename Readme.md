@@ -26,3 +26,7 @@ Final result would be generated and stored in .txt format file
 5) Using the prediction vector for number of people in each sector, text file would be generated in "sector_form" funtion.
 6) This .txt file will contain strings where each character represents one sector.
 7) Strings are generated after combining the prediction results of both localization and people counting model (in "sector_num" function).
+
+### Final Presentation link:
+
+https://docs.google.com/presentation/d/1IoP6HTNnQ5VkkNj9A_pYZ-7FIQQBEiiz/edit?usp=drivesdk&ouid=109512675834623398455&rtpof=true&sd=true
